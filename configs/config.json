@@ -1,0 +1,5 @@
+{
+"portRun": 8181,
+"db" : "MyDb/ABC@//localhost:1521/orcl"
+
+}
